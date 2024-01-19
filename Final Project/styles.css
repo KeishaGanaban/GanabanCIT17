@@ -1,0 +1,17 @@
+a.button:link {
+  color: white;
+  text-decoration: none;
+}
+
+a.button:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a.button:hover {
+  text-decoration: underline;
+}
+
+a.button:active {
+  text-decoration: underline;
+}
